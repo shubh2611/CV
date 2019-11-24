@@ -7,3 +7,6 @@
 
      background-color: red;
    }
+.circular{
+  border-radius: 100%;
+}
